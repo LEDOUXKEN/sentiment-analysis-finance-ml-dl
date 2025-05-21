@@ -1,4 +1,4 @@
-# Analyse et Prédiction du Sentiment dans les Actualités Financières 📊🧠
+# Analyse et Prédiction du Sentiment dans les Actualités Financières 
 
 ##  Introduction
 Ce projet propose une approche de Machine Learning et Deep Learning pour automatiser l'analyse du sentiment dans les textes financiers.
